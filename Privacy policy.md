@@ -1,6 +1,6 @@
 # Privacy policy
 
-Ivan Maurovic built the Reflexio app as a Freemium app. This SERVICE is provided by Ivan Maurovic at no cost and is intended for use as is.
+Ivan Maurovic built the Reflex.io app as a Freemium app. This SERVICE is provided by Ivan Maurovic at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
