@@ -1,4 +1,4 @@
-# Privacy policy
+# Privacy policy | Reflex.io
 
 Ivan Maurovic built the Reflex.io app as a Freemium app. This SERVICE is provided by Ivan Maurovic at no cost and is intended for use as is.
 
